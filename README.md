@@ -1,29 +1,26 @@
 <p align="center"><img src="https://cdn.pixabay.com/photo/2016/03/17/06/49/renovation-1262389_960_720.png"></p>
-<h3 align="center">Hey there, I'm <a href="https://github.com/TuiLaThanhNe">Công Thành</a> - <i>CgT</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/phungkhang">Phùng Gia Khang</a> - <i>CgT</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
  <br>
   <div>
-   <img alt="" height="360px" Width="280px" src="https://spotify-github-profile.vercel.app/api/view?uid=d06xrmq7881id2956cuzzklo1&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" align="right">
-   
+  
 <h2>👨🏻‍💻 About Me</h2>
    
 - 💒 My countryside is Binh Phuoc (93), Vietnam and i'm studying and living in Ho Chi Minh city 
   <ul>
-  <li>👋 𝑯𝒊, 𝑰’𝒎 @TuiLaThanhNe</li>
-  <li>👀 𝑴𝒚 𝑭𝑩 : <a href="https://www.facebook.com/congthanh.nhism2809/">https://www.facebook.com/congthanh.nhism2809/</a></li>
+  <li>👋 𝑯𝒊, 𝑰’𝒎 Phùng Gia Khang</li>
+  <li>👀 𝑴𝒚 𝑭𝑩 : <a href="https://www.facebook.com/PhungGiaKhang.Infor/">https://www.facebook.com/PhungGiaKhang.Infor/</a></li>
   <li>🌱 𝑴𝒚 𝑰𝑮 : trdyc_thanh</li>
-  <li>🏦 I'm studying at Le Thanh Tong high school</li>
+  <li>🏦 I'm studying at Tran Van On high school</li>
   <li>🧧 𝒅𝒐𝒏𝒂𝒕𝒆 𝒎𝒆</li>
-  <li>🧨 𝒎𝒐𝒎𝒐 : 0987664301</li>
-  <li>🎨 𝒑𝒂𝒚𝒑𝒂𝒍 : congthanh28924@gmail.com</li>
-  <li>💜 𝒔𝒂𝒄𝒐𝒎𝒃𝒂𝒏𝒌 : 050116332385</li>
+  <li>🧨 𝒎𝒐𝒎𝒐 : 0396984775</li>
   <li>𝑻𝒌𝒔 𝑭𝒐𝒓 𝑨𝒍𝒍</li>
   <li>𝑼𝒘𝑼</li>
 </ul>
-   - 👨‍💻 All of my projects are available at <a href="https://github.com/TuiLaThanhNe?tab=repositories">TuiLaThanhNe.github.io</a>
+   - 👨‍💻 All of my projects are available at <a href="https://github.com/phungkhang?tab=repositories">phungkhang.github.io</a>
   <br>
-   - 🔎 You can see all my information in <a href="https://github.com/TuiLaThanhNe">My Website</a>
+   - 🔎 You can see all my information in <a href="https://github.com/phungkhang">My Website</a>
   <br>
-   - 📫 contact me : congthanh28924@gmail.com
+   - 📫 contact me : phungkhangoffical@gmail.com
   <br>
   ### 👁️‍🗨️ Khách đến thăm nhà:    <img height="30px" Width="290px" src="https://profile-counter.glitch.me/Sowntee/count.svg">
 </div>
@@ -56,7 +53,7 @@
  
 ### Github Stats <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px">
  
-<a align="center" href="https://github.com/TuiLaThanhNe">
+<a align="center" href="https://github.com/phungkhang">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TuiLaThanhNe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" align="left">
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TuiLaThanhNe&layout=compact&langs_count=8&theme=algolia">
 </a>
