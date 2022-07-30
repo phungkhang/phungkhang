@@ -9,7 +9,6 @@
   <ul>
   <li>👋 𝑯𝒊, 𝑰’𝒎 Phùng Gia Khang</li>
   <li>👀 𝑴𝒚 𝑭𝑩 : <a href="https://www.facebook.com/PhungGiaKhang.Infor/">https://www.facebook.com/PhungGiaKhang.Infor/</a></li>
-  <li>🌱 𝑴𝒚 𝑰𝑮 : trdyc_thanh</li>
   <li>🏦 I'm studying at Tran Van On high school</li>
   <li>🧧 𝒅𝒐𝒏𝒂𝒕𝒆 𝒎𝒆</li>
   <li>🧨 𝒎𝒐𝒎𝒐 : 0396984775</li>
