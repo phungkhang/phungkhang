@@ -1,11 +1,11 @@
 <p align="center"><img src="https://cdn.pixabay.com/photo/2016/03/17/06/49/renovation-1262389_960_720.png"></p>
-<h3 align="center">Hey there, I'm <a href="https://github.com/phungkhang">Phùng Gia Khang</a> - <i>CgT</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm <a href="https://github.com/phungkhang">Phùng Gia Khang</a> - <i>PGK</i> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
  <br>
   <div>
   
 <h2>👨🏻‍💻 About Me</h2>
    
-- 💒 My countryside is Binh Phuoc (93), Vietnam and i'm studying and living in Ho Chi Minh city 
+- 💒 My countryside is Ben Tre (71), Vietnam and i'm studying and living in Ben Tre city 
   <ul>
   <li>👋 𝑯𝒊, 𝑰’𝒎 Phùng Gia Khang</li>
   <li>👀 𝑴𝒚 𝑭𝑩 : <a href="https://www.facebook.com/PhungGiaKhang.Infor/">https://www.facebook.com/PhungGiaKhang.Infor/</a></li>
